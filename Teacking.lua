@@ -10,3 +10,4 @@ local leo = script.Parent
 local leo = true
 -- Test = script.Parent
 Test.CanCollide = false
+Part.CanCollide = true
