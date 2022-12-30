@@ -11,3 +11,6 @@ local leo = true
 -- Test = script.Parent
 Test.CanCollide = false
 Part.CanCollide = true
+Part.Touched:Connect(function()
+  print("Touched")
+  end)
