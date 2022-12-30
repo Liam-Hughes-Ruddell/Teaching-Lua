@@ -8,3 +8,5 @@ local leo = script.Parent = true
 local leo = script.Parent
 -- Or
 local leo = true
+-- Test = script.Parent
+Test.CanCollide = false
